@@ -8,7 +8,8 @@ The QQ nickname of original author:
 QQ number:    
 1054687116   
 Bilibili nickname:    
-moyinQAQ
+moyinQAQ    
+If you want to know more about our modpack,you can join our QQ chat group:    979440529
 # Other link
 If you think downloading the modpack is too slow on Github,you can click the following links:    
 https://wwbl.lanzout.com/ibV2w2m8jbeh   
