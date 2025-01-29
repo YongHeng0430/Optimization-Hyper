@@ -1,0 +1,13 @@
+{
+  "isShowed": true,
+  "isAdvancedShowed": false,
+  "overlayPosition": "TOP_LEFT",
+  "overlayText": "{fps} FPS",
+  "overlayBackgroundColor": "#000000",
+  "overlayTextColor": "#ffffff",
+  "overlayTransparency": 50,
+  "advancedText": "{minFps} / {maxFps}",
+  "advancedBackgroundColor": "#000000",
+  "advancedTextColor": "#ffffff",
+  "advancedTransparency": 50
+}
