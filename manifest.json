@@ -1,0 +1,18 @@
+{
+  "author": "墨渊、你滴盐我滴醋",
+  "files": [],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "minecraft": {
+    "version": "1.21.4",
+    "modLoaders": [
+      {
+        "id": "fabric-0.16.10",
+        "primary": true
+      }
+    ]
+  },
+  "name": "SO-FA-1.21.4-v3.0",
+  "overrides": "overrides",
+  "version": "3.0"
+}
