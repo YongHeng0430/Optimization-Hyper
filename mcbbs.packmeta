@@ -1,0 +1,742 @@
+{
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.21.4"
+    },
+    {
+      "id": "fabric",
+      "version": "0.16.10"
+    }
+  ],
+  "author": "墨渊、你滴盐我滴醋",
+  "description": "",
+  "fileApi": "",
+  "files": [
+    {
+      "hash": "476f465c1bc8c0690e4ac2a0e5b41edb407f19fa",
+      "path": "mods/Searchables-fabric-1.21.4-1.0.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "331cf4a8706e2e21d07b1c236b4932352ad4a42c",
+      "path": "mods/DurabilityViewer-1.21.4-1.11.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "eb8c871d57e786b65ba4c462cd34940700e4d3a9",
+      "path": "mods/ScalableLux-0.1.2+beta.1+fabric.6d46f24-all.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1394c363dee8a2ba53981a7b1135c1e882fa15f1",
+      "path": "mods/YetAnotherConfigLib-3.6.2+1.21.4-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "736e8888664701b86042e10bea357aa9af583c35",
+      "path": "mods/Zoomify-2.14.2+1.21.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "0b077f1ebd9268c84db08f6aa1f8d7b198b8afa4",
+      "path": "mods/[Attack Through Grass] atg-2.0.2+1.21.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "8bafe2a3ce1a3c6c48bb243dde3cbd9c5b510a01",
+      "path": "mods/[BadOptimizations] BadOptimizations-2.2.1-1.21.2-21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "d03b4a9af5b7e3bf4b087018b5955090732ef510",
+      "path": "mods/[BetterGrassify] BetterGrassify-1.4.4+fabric.1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ad5b284586f7ee1b53524d6f690d447aaaae5bec",
+      "path": "mods/[ImmediatelyFast] ImmediatelyFast-Fabric-1.3.4+1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "cb7053904fcca3516053248a61c7ffa29ecfc981",
+      "path": "mods/[一键背包整理Next] InventoryProfilesNext-fabric-1.21.4-2.1.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "f4dfe51f2e378b29a5329504a324df4faf6133f0",
+      "path": "mods/[万用皮肤补丁] CustomSkinLoader_Fabric-14.22.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "91c3d3deb4cd92bbd4059f739fbc8ce755995304",
+      "path": "mods/[冰山] Iceberg-1.21.4-fabric-1.2.11.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b2f59151a4f2b591563d7bb25ef644849e01fd9b",
+      "path": "mods/[动态 FPS] dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "2774ed0754fbbbe00e0fb9c67406d38ef346615d",
+      "path": "mods/[动态准星] dynamiccrosshair-9.3+1.21.3-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "f7c315098917d8cd4d9115bd49eb55bcceabcf35",
+      "path": "mods/[合成辅助] craftingtweaks-fabric-1.21.4-21.4.2.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "41d979ea73de8cd42383eb461d45f2a434573c4b",
+      "path": "mods/[地毯] fabric-carpet-1.21.4-1.4.161+v241203.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "8ad00f1cb33f3b537e836ef8dc1195a811480316",
+      "path": "mods/[实体纹理特性] entity_texture_features_fabric_1.21.4-6.2.10.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "4b8c7be57e86baeb1cf7ea04199b9a5ea458ec8e",
+      "path": "mods/[更多动画] notenoughanimations-fabric-1.9.2-mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b4337ef9dc0a6cdf31d8f3df68a6542f64f3625e",
+      "path": "mods/[更多聊天记录] morechathistory-1.3.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "7ffd6268b82f61938792a1bb4b09b6a4110376ae",
+      "path": "mods/[更好的延迟显示] BetterPingDisplay-Fabric-1.21.4-1.1.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "bb8e5fa9bd9072df3e480df5c972a01f10b9c8d4",
+      "path": "mods/[更好的统计信息界面] betterstats-3.13.8+fabric-1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "60793409ab83672ceb1a58645367548db9d65a67",
+      "path": "mods/[更好的进度] BetterAdvancements-Fabric-1.21.4-0.4.5.34.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "3c1e1ca30c196080f899ec490bb60d8f6221dfbc",
+      "path": "mods/[物品栏HUD+] inventoryhud.fabric.1.21.4-3.4.27.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "8844abc6a9353eb28f1a823cfbe73fc386d42129",
+      "path": "mods/[物品高亮] Highlighter-1.21.4-fabric-1.1.11.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "9fc63f45ee0f157fd161f57f2af1db20ae603918",
+      "path": "mods/[禁用聊天举报] NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "6ecacc1e9f62a98ff709112a5e6ffcfb8cbc0af5",
+      "path": "mods/[简单的语音聊天] voicechat-fabric-1.21.4-2.5.27.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e2e2c33c9c0cfb165d1466abaeb816ceceffae65",
+      "path": "mods/[聊天头像] chat_heads-0.13.13-fabric-1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5bf91b0df04e27b94b8dff36aa782cc9f44fc2f6",
+      "path": "mods/[苹果皮] appleskin-fabric-mc1.21.3-3.0.6.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e9bc34f3d9aca4fc89d7ec4a82fbc58a166ce2a9",
+      "path": "mods/[自定义局域网联机] lanserverproperties-1.13.2-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "0023646959d5b7ddf4c2892b5d469398f40e88cd",
+      "path": "mods/[输入法冲突修复，手机端禁用]Imblocker-5.0.2-1.20.6+.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "f3280bee3d0bd02543f658817c75094cde609706",
+      "path": "mods/[迷你HUD] minihud-fabric-1.21.4-0.34.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "77d63a2da096d3e4cc18f2bfeb4ccc035f7f555a",
+      "path": "mods/[钠／Embeddium：动态光源] sodiumdynamiclights-fabric-1.0.10-1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "3566a97338ae3e3b73f90931e361fdfe17b55e6c",
+      "path": "mods/[键位冲突显示] Controlling-fabric-1.21.4-22.0.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c56d65e1d86af890babcf2819d0f3c2113ce1e3d",
+      "path": "mods/[高清截图Fabric] fabrishot-1.14.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "8267df3b46152116a252d085da525fb84400a95a",
+      "path": "mods/[鼠标手势] MouseTweaks-fabric-mc1.21.3-2.27.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "a321c22dcbf3ba55e2de763952bbc07c5d814472",
+      "path": "mods/architectury-15.0.1-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "583c28892b44abe745e08975f2cde5ed0c58a9a1",
+      "path": "mods/balm-fabric-1.21.4-21.4.11.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5377aae3a0f0eb65aa5dceca4985f53480a73db5",
+      "path": "mods/betterfpsdist-1.21-6.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "63a1a3b25c642f5a745dfcc9bdc0841660f560af",
+      "path": "mods/cloth-config-17.0.144-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "7b22feac8ca586a8c371324cb83abe5546b22d45",
+      "path": "mods/continuity-3.0.0+1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1962f8f7f4264cba46a579e0580366736abe3e9a",
+      "path": "mods/cullleaves-fabric-4.0.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "99810a3d86fe30dc0828b7d0aaf2bee592ca6642",
+      "path": "mods/cupboard-fabric-1.21-2.9.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "261b0e79ffbb79f9b708827333bd745620ebbec0",
+      "path": "mods/enhancedblockentities-0.11.3+1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "a8b87f259682580d558f793ed99be44d55f06c0f",
+      "path": "mods/entityculling-fabric-1.7.2-mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "affbf3c163a20b01c8d0b26d6af4c6a6b96e0566",
+      "path": "mods/fabric-api-0.116.0+1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b28cc99b01aef86d0d6ca3ea7f468512bd0595c4",
+      "path": "mods/fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ee08ca5fd2a7a02dbade048745533b5570a826f0",
+      "path": "mods/ferritecore-7.1.1-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "80b8d77c745976216a44961da0b3da97513969be",
+      "path": "mods/fzzy_config-0.6.4+1.21.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "416bca48280bbbb824e595d12fc694cc7488cfc4",
+      "path": "mods/gpumemleakfix-fabric-1.21-1.8.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "cd2d91bc43678cc7037752e8ea1c9d5fa5ec451f",
+      "path": "mods/iris-fabric-1.8.5+mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "0877dce0dfc6b5413694363b7ad1c702ab2d5255",
+      "path": "mods/libIPN-fabric-1.21.4-6.3.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "2f41a836351d5ae37b9cd6c96227e1dcaa30e6c5",
+      "path": "mods/lithium-fabric-0.14.7+mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "a081a5fa7ac5611fa4aef340aee4f32c3104aaf6",
+      "path": "mods/malilib-fabric-1.21.4-0.23.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "3f4d67c87d0a6e8c323f443635013bfd58b8872d",
+      "path": "mods/modelfix-1.21.3-1.10-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "46dabb966c9772daf5d3af20fbadc8f2fbcbeb18",
+      "path": "mods/modernfix-fabric-5.20.3+mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "0ddb327640b1b766155e489852378950ef16da8d",
+      "path": "mods/modmenu-13.0.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "7263c77238dd6715935dc58a721e5533fdfdfb3f",
+      "path": "mods/particle_core-0.2.5+1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "4adbf542d5dd586fe8a458202bfeebd757dfd2f6",
+      "path": "mods/noisium-fabric-2.5.0+mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "841b1ef57880fc0f94a22ab268b737c3830b5595",
+      "path": "mods/placeholder-api-2.5.2+1.21.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c72f07a8f139f0420cbce29bd9eb29fb24db427f",
+      "path": "mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c3bd0d2121653fec3c0f82a841d88e85e87f9796",
+      "path": "mods/sodium-extra-fabric-0.6.1+mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "481f948c77a1ba80804a45989642e1d81999947e",
+      "path": "mods/sodium-fabric-0.6.7+mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "a9bf768be6b332aa525fe5130dcddf5f4904b84f",
+      "path": "mods/sodiumoptionsapi-fabric-1.0.10-1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "8ebf293e011a5fa17b28cf97caf2cc95c91c3218",
+      "path": "mods/tcdcommons-3.12.5+fabric-1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b8bc792b4ef5b77b8a11e9b7f74737f1d58f5cf6",
+      "path": "config/splash.properties",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "2852b4fb4adde41d9538eb3df3aa4afcb486a98c",
+      "path": "config/badoptimizations.txt",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e6eac06b86e77a90218f36997cbe0a33fb1e4a82",
+      "path": "config/ferritecore.mixin.properties",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "a1c75d786b4e9bbbec0474a062c02253995a073a",
+      "path": "config/immediatelyfast.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
+      "path": "config/lithium.properties",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "3ace8840c66edea990480583439937f4cbcec8e8",
+      "path": "config/modernfix-mixins.properties",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
+      "path": "config/sodium-mixins.properties",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e90b2514226a0624cf42112b42477f9872598b89",
+      "path": "config/sodium-extra.properties",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ab27b0855372e1001f3a5b010f96e54736a0b606",
+      "path": "config/particle_core_disabled_optimizations.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "907d2d2c52d47b4f41ee991ba9692ad1bb667da0",
+      "path": "config/entity_texture_features.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "568d02b20ccbe28f7131b1fd09df2ef9d439fdb6",
+      "path": "config/balm-common.toml",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "51a7efebd32597a49b4c6f151b36845182ab339a",
+      "path": "config/betterpingdisplay.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "path": "config/craftingtweaks-common.toml",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "cfa60cb9fc1260b3c92e2eb08ac7e0d4d13274f5",
+      "path": "config/cupboard.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "6a83c8b806b818ae23a1976baa52bfc30436206a",
+      "path": "config/NoChatReports/NCR-Common.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1493c077473fe3f8a2216a24156d6ccab79de39a",
+      "path": "config/NoChatReports/NCR-Client.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "3c04f45c210048b5e722b294dcc0d9f073374160",
+      "path": "config/NoChatReports/NCR-ServerPreferences.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c417abf7df5c7c48d12992c84c2ae62f01ce7b95",
+      "path": "config/NoChatReports/NCR-Encryption.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "75d98286a0aa3e180708523c8f582a2d23e590b3",
+      "path": "config/NoChatReports/README.md",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "0e961a7cc0c28a5e462ad58b7394d0afe98612f8",
+      "path": "config/scalablelux.properties",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "a6103155e51444c62da915d79b7f2888ff6324d3",
+      "path": "config/voicechat/voicechat-server.properties",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "51ed6d74ce390b2219a85fb3cfdad19c85039d79",
+      "path": "config/voicechat/translations.properties",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "f29fe742af3aaa7771d6a3afe32f201a97f14136",
+      "path": "config/voicechat/voicechat-client.properties",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "df216e83d9036829cf5bb2f8c24739e0ee21ed87",
+      "path": "config/voicechat/voicechat-volumes.properties",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "4994b8afdf50b6412aa302a70c31a9f04bfb73fa",
+      "path": "config/appleskin.json5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "0a6f7acf7c829c382a21ab55b582687fe640ad0b",
+      "path": "config/betteradvancements.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "8282b2cb8ff302f7225373258a72767fd5bedc09",
+      "path": "config/bettergrass.json5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "54fb55039959a3a24af55fc36792534696b61668",
+      "path": "config/chat_heads.json5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e23354e548653ad779a519da30f6e3a25fe0ce3d",
+      "path": "config/cullleaves.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "path": "config/dynamic_fps.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "6e5b7ed29db4ac0d4ccb57b581902f8c68753e84",
+      "path": "config/fabric/indigo-renderer.properties",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "d7c49ae1505c42b69b90645cde87989aadb72eae",
+      "path": "config/durability-viewer.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c073dd9f2c8f03c8fc5b44b2dac5aec8a184cb37",
+      "path": "config/dynamiccrosshair.json5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "37c9f78857d5be194b67abee643a9bef97363486",
+      "path": "config/enhanced_bes.properties",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1573fc320a363b30a1a5e4cae1d4596ec177085d",
+      "path": "config/etf_warnings.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b3a71194e960bf326883a019b0287b8a85943891",
+      "path": "config/entityculling.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "f11cc293ba895a7f8584ccb0e004751ebc045ae6",
+      "path": "config/highlighter.toml",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "177b53a934d2d9be1cfbd24aee2f72f561d7a075",
+      "path": "config/imblocker.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "af45c3dbaaa9d1aae76c096da406b936d65094d7",
+      "path": "config/inventoryhud.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db",
+      "path": "config/midnightlib.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "0bfe4e2f2bf99c0cef5502d3bccfad608076d750",
+      "path": "config/modelfix-client.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "d1f10fbacb91be7ec9b84ad261059c9fb4e5d62f",
+      "path": "config/modmenu.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "651b3e4db2d430dc1da3566b2984b264061a6794",
+      "path": "config/MouseTweaks.cfg",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e8edc7a56e1a4f5659c0736cecff7bd161bf53d4",
+      "path": "config/notenoughanimations.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "4336e8ebb96b406322e08dbdb5483e6093765f7b",
+      "path": "config/particle_core_config.toml",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "aeeeb4ef9c9f80c40defb65c521ec87f8e36e5a7",
+      "path": "config/forgeconfigapiport.toml",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5bf8a5acc96509f7ff8deee866379f963bd45277",
+      "path": "config/sodium-options.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "6231e629ea11402b75d0edca9863f0f40d5a1d6b",
+      "path": "config/sodium-fingerprint.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ef6eac77bc8ec50971872b820002db7227ece802",
+      "path": "config/yacl.json5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "fb9013aeb5b0e75d0afae7719d822091a0e70892",
+      "path": "config/zoomify.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "4fc8dc8d06ed3cb8229ac8575999a9e50a876b7f",
+      "path": "config/iris.properties",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b9fa2f860583c210f1295131fa19e77e11de8876",
+      "path": "config/sodiumdynamiclights-client.toml",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "f3fe34a46bd1e12b03c1c2af89e4bd8ff6761e26",
+      "path": "config/sodium-extra-options.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "58b81b870399a90daad1a3249c68c2d5bd18abf9",
+      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "forceUpdate": false,
+  "launchInfo": {
+    "javaArgument": [],
+    "launchArgument": [],
+    "minMemory": 5959
+  },
+  "libraries": [],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "SO-FA-1.21.4-v3.0",
+  "origin": [],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "url": "https://github.com/Uniaball/Super-Optimization/",
+  "version": "3.0"
+}
