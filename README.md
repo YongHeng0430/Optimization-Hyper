@@ -1,4 +1,4 @@
-  # About Optimization Hyper 
+  # About Optimization Hyper(N)
 Main idea：    
 To optimize games and increase the FPS of games on mobile devices
 # Original author
