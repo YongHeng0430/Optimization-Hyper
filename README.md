@@ -1,5 +1,4 @@
-# About Super-Optimization
-A modpack for Minecraft:java 1.21.4 Fabric   
+# About Optimization HyperN   
 Main idea：    
 To optimize games and increase the FPS of games on mobile devices
 # Original author
